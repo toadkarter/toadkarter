@@ -37,12 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++              44 mins         ███████████████████████▒░   93.05 %
-textmate         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Vcxproj          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-C#               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
