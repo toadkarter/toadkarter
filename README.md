@@ -1,14 +1,5 @@
 <h1 align="center">Hi there, I'm Vlad (aka toadkarter)!</h1>
-<h3 align="center">I am an aspiring software engineer and video game developer from Ireland</h3>
-
-<div align="center">
-
-🔭 I’m currently working on a **virtual reality project in Unity**
-
-👯 I would love to collaborate on **video-game related projects**
-
-📫 How to reach me: **vladimir.rakhmanin@ucdconnect.ie**
-</div>
+<h3 align="center">I am a Junior Programmer at Romero Games working in the area of UI.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
