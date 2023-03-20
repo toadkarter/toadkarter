@@ -23,16 +23,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toadkarter&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- -->
-<!--START_SECTION:waka-->
-
-```text
-Text   1 min           █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
 ------
 
 [Vlad Rakhmanin](https://github.com/toadkarter)
