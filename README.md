@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Vlad (aka toadkarter)!</h1>
 <h3 align="center">I am a Junior Programmer at Romero Games working in the area of UI.</h3>
 
-[![An image of @toadkarter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/toadkarter)](https://holopin.io/@toadkarter)
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -26,5 +24,7 @@
 </div>
 
 ------
+
+[![An image of @toadkarter's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/toadkarter)](https://holopin.io/@toadkarter)
 
 [Vlad Rakhmanin](https://github.com/toadkarter)
