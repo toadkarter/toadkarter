@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vlad (aka toadkarter)!</h1>
-<h3 align="center">I am a Junior Programmer at Romero Games working in the area of UI.</h3>
+<h3 align="center">I am a Programmer at Romero Games working in the area of UI.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
