@@ -1,12 +1,4 @@
-<h1 align="center">Hi there, I'm Vlad (aka toadkarter)!</h1>
-<h3 align="center">I am a Programmer at Romero Games working in the area of UI.</h3>
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-rakhmanin-55893319a/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir.rakhmanin@ucdconnect.ie)
-</div>
+<h3 align="center">A little mushroom man that likes video games, programming and horror, ideally at the same time..</h3>
 
 </div>
 
