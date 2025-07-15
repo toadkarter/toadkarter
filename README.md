@@ -1,4 +1,4 @@
-<h3 align="center">A little mushroom man that likes video games, programming and horror, ideally at the same time.</h3>
+<h3 align="center">GitHub base for Vlad Rakhmanin, ex-Romero Games gameplay / UI programmer. I like video games, programming and horror, ideally at the same time.</h3>
 
 ------
 
